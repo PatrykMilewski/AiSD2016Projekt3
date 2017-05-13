@@ -1,0 +1,37 @@
+Zbieranie kwiatków
+
+Pierwsza liczba z plików out to poprawna odpowiedŸ. Rozwi¹zania nieoptymalne (np. zach³anne) mog¹ liczyæ na czêœciowe punkty (druga liczba w pliku out to minimalna odpowiedŸ, za jak¹ zostan¹ przyznane punkty).
+
+W ogrodzie pañstwa Tosiuliñskich roœnie mnóstwo kwiatów. Pomiêdzy kwiatami wij¹ siê œcie¿ki. S¹ one tak usypane, ¿e istnieje tylko jedna droga pomiêdzy dowolnymi dwoma miejscami. Œcie¿ka mo¿e siê rozga³êziæ na dwie œcie¿ki. Ma³a Tosia chcia³aby pozbieraæ jak najwiêcej kwiatków dla swojej mamy. Zapyta³a swojego tatê, czy mo¿e to zrobiæ. Tata powiedzia³, ¿e mo¿e zerwaæ jedynie kwiatki z kilku przylegaj¹cych do siebie œcie¿ek (granic¹ pomiêdzy œcie¿kami jest rozga³êzienie). Doda³ jeszcze, ¿e jedn¹ ze œcie¿ek musi byæ ta od domu do pierwszego rozga³êzienia.
+Tosia bardzo kocha swoj¹ mamê i chcia³aby zerwaæ jak najwiêcej kwiatków. Pomó¿ wybraæ jej œcie¿ki wiedz¹c ile jest przy ka¿dej œcie¿ce kwiatków oraz jak s¹ usytuowane. Wiesz tak¿e, ¿e od domu wychodzi tylko jedna œcie¿ka.
+Wejœcie
+
+W pierwszej linii wpisane bêd¹ dwie liczby: n - liczba œcie¿ek, m - liczba œcie¿ek z których mo¿na zrywaæ kwiatki.
+W kolejnej linii znajduje siê n trójek liczb x y w. Liczby x y opisuj¹ koñce œcie¿ki; dwie œcie¿ki s¹siaduj¹ ze sob¹ jeœli maj¹ taki sam numer koñca. Koñcówka 1 oznacza dom pañstwa Tosiuliñskich. Liczba w, to liczba kwiatków przy œcie¿ce.
+W ka¿dej linii liczby s¹ oddzielone pojedyncz¹ spacj¹.
+Wyjœcie
+
+Liczba kwiatków, które mo¿na uzbieraæ.
+Przyk³ad
+
+Wejœcie
+5 2
+1 2 2
+2 3 10
+2 4 8
+4 5 11
+4 6 8
+
+Wyjœcie
+12
+
+Wejœcie
+5 3
+1 2 2
+2 3 10
+2 4 8
+4 5 11
+4 6 8
+
+Wyjœcie
+21
